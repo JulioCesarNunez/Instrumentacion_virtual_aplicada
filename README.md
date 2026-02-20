@@ -15,6 +15,6 @@ Códigos de la materia de Instrumentación virtual aplicada
 - El repositorio puede ser privado, solamente hay que dar acceso al docente. 
 - El repositorio deberá estar actualizado confirme a los días programados para revisión dentro de classroom.
 
-## La carpeta de secodara de filamentos es la referente a la del proyecto
+
 
 
